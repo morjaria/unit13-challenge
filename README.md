@@ -8,8 +8,8 @@ _[Cryptocurrencies coins by Worldspectrum](https://www.pexels.com/@worldspectrum
 
 
 # Submission 
- 1. [Crypto Clustering](crypto_clustering.ipynb)
- 2. [Crypto Clustering - Challenge](crypto_clustering_sm.ipynb)
+ 1. [Crypto Clustering](submission/crypto_clustering.ipynb)
+ 2. [Crypto Clustering - Challenge](submission/crypto_clustering_sm.ipynb)
 
 ### Background
 
